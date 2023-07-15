@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mikha\\Documents\\Kuliah\\SEMESTER 3\\Pemrograman Berbasis Objek\\number_guessing_gaem\\number_guessing_gaem.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mikha\\Documents\\Kuliah\\SEMESTER 3\\Pemrograman Berbasis Objek\\number_guessing_gaem\\number_guessing_gaem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mikha\\Documents\\Kuliah\\SEMESTER 3\\Pemrograman Berbasis Objek\\number_guessing_gaem\\number_guessing_gaem.csproj",
+        "projectName": "number_guessing_gaem",
+        "projectPath": "C:\\Users\\Mikha\\Documents\\Kuliah\\SEMESTER 3\\Pemrograman Berbasis Objek\\number_guessing_gaem\\number_guessing_gaem.csproj",
+        "packagesPath": "C:\\Users\\Mikha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mikha\\Documents\\Kuliah\\SEMESTER 3\\Pemrograman Berbasis Objek\\number_guessing_gaem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mikha\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
